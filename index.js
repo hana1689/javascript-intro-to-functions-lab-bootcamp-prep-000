@@ -24,12 +24,12 @@ function sayHiToGrandma(string)
   {
     return "YES INDEED!"
   }
-  else if(string === )
+  else if(string === string.toLowerCase())
   {
     return "I can't hear you"
   }
   else
   {
-    
+    return 
   }
 }
